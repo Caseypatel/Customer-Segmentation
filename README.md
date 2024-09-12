@@ -125,7 +125,7 @@ creditcard_cluster_df = pd.concat([creditcard_df,pd.DataFrame({'cluster':kmeans_
 - Cluster 1: This group has excellent payment habits but low credit limits. By increasing their credit limits, we could encourage them to spend more, especially since they’ve shown they can manage their finances well.
 - Cluster 2 and 4: These groups have both low spending and low payment activity. To boost their spending, we could introduce targeted promotions with minimum spending requirements or offer special incentives when they increase their credit card usage.
 - Cluster 3: This group is already spending the most and using their credit cards frequently. To capitalize on this, we should focus on encouraging even more spending through exclusive promotions or special perks for high spenders. Think along the lines of VIP credit card benefits or rewards for reaching spending milestones.
-- 
+
 
 
 

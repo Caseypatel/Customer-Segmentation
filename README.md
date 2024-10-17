@@ -7,7 +7,7 @@ The Senior Management team from the client, insurance company,  is disagreeing a
 Their proposal is to use data and Machine Learning to help segment up their customers based upon their engagement with each of the benefits such as saving plans, loans, wealth management.  This will aid their business understanding of the customer base and enhance the relevancy of targeted messaging and customer communication.
 
 ### Actions
-To identify meaningful customer segments, we propose applying k-means clustering to the product area data. Here are the key steps:
+To identify meaningful customer segments, I propose applying k-means clustering to the product area data. Here are the key steps:
 
 - **Data Pre-processing:** Feature scaling and dimensionality reduction are necessary to ensure effective clustering.
 - **Determine Optimal Clusters:** Utilize the Within Cluster Sum of Squares (WCSS) method to determine the ideal number of clusters.
